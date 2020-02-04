@@ -1,0 +1,45 @@
+body, .jumbotron {
+    background-image: linear-gradient(to top right, #83E8BA, white);
+}
+
+h1 {
+    color: #689689;
+    text-align: center;
+}
+
+.display-4 {
+    color: #38618C
+}
+
+.carousel {
+    width: 900px;
+    margin: auto;
+    display: block;
+}
+
+.card-deck {
+    margin-top: 40px;
+}
+
+.card-title {
+    color: #689689;
+}
+
+.textCol {
+    width: 300px;
+    margin: 50px;
+    color: #38618C;
+}
+
+.navbar-container, .navbar {
+    background-image: linear-gradient(to top left,#83E8BA, rgb(104, 168, 139));
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.video {
+    margin: auto;
+    display: block;
+}
